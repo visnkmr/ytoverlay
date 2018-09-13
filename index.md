@@ -3,7 +3,6 @@ layout: default
 ---
 
 **YT Overlay** allows you to stream Youtube Video as a PopUp on your Fire TV. 
-###
 Currently the app doesn't have Youtube search feature but rather takes the videoID as input. 
 Based on User Feedback and involvement Youtube Search features will be added. 
 * * *
@@ -12,6 +11,7 @@ Based on User Feedback and involvement Youtube Search features will be added.
 2. The video should start playing as an overlay. 
 3. While the overlay is active in order to Mute, Pause/Resume or close overlay open the notification named "YT Overlay controls". 
 4. In the controls screen tap on the buttons to perform actions as mentioned. While in the controls screen you may also use the menu button to Pause/Resume the video. 
+
 * * *
 # Please Note: 
 

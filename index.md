@@ -2,123 +2,21 @@
 layout: default
 ---
 
-YT Overlay allows you to stream Youtube Video as a PopUp on your Fire TV. Currently the app doesn't have Youtube search feature but rather takes the videoID as input. Based on User Feedback and involvement Youtube Search features will be added. After entering a youtube video id just hit the "Play Video" button. The video should start playing as an overlay. While the overlay is active in order to Mute, Pause/Resume or close overlay open the notification named "YT Overlay controls". In the controls screen tap on the buttons to perform actions as mentioned. While in the controls screen you may also use the menu button to pause.resume the video. Please Note: Fire TV OS 6 lacks the accessibility service options to be able to enable Overlay permission for any app, hence, Unless permission is allowed manually the overlays won't be displayed. In order to enable the permission visit: visnkmr.github.io/overlay-permission-help We hope you will continue supporting us by downloading, using and rating our apps in the appstore @ [myapps](https://visnkmr.github.io/myapps).
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
+**YT Overlay** allows you to stream Youtube Video as a PopUp on your Fire TV. 
+###
+Currently the app doesn't have Youtube search feature but rather takes the videoID as input. 
+Based on User Feedback and involvement Youtube Search features will be added. 
 * * *
+### Using YT Overlay
+1. After entering a youtube video id just hit the "Play Video" button.
+2. The video should start playing as an overlay. 
+3. While the overlay is active in order to Mute, Pause/Resume or close overlay open the notification named "YT Overlay controls". 
+4. In the controls screen tap on the buttons to perform actions as mentioned. While in the controls screen you may also use the menu button to Pause/Resume the video. 
+* * *
+# Please Note: 
 
-### Here is an unordered list:
+Fire TV OS 6 lacks the accessibility service options to be able to enable Overlay permission for any app, hence, Unless permission is allowed manually the overlays won't be displayed. 
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+In order to enable the permission visit: [https://visnkmr.github.io/overlay-permission-help](https://visnkmr.github.io/overlay-permission-help)
 
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+We hope you will continue supporting us by **downloading, using and rating our apps in the appstore** @ [myapps](https://visnkmr.github.io/myapps).

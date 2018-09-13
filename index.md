@@ -5,7 +5,13 @@ layout: default
 **YT Overlay** allows you to stream Youtube Video as a PopUp on your Fire TV. 
 Currently the app doesn't have Youtube search feature but rather takes the videoID as input. 
 Based on User Feedback and involvement Youtube Search features will be added. 
+
 * * *
+
+![Octocat](https://raw.githubusercontent.com/visnkmr/ytoverlay/master/yto1.jpg)
+![Octocat](https://raw.githubusercontent.com/visnkmr/ytoverlay/master/yto2.jpg)
+
+
 ### Using YT Overlay
 1. After entering a youtube video id just hit the "Play Video" button.
 2. The video should start playing as an overlay. 
